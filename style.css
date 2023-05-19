@@ -1,0 +1,13 @@
+/* IMPORTING FONTS  */
+@import url('https://fonts.cdnfonts.com/css/Roboto');
+@import url('https://fonts.cdnfonts.com/css/poppins');
+@import url('https://fonts.cdnfonts.com/css/Inter');
+@import url('https://fonts.cdnfonts.com/css/InaiMathi');
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&display=swap');
+
+/* SET BODY DDEFAUlt  */
+
+* {
+  box-sizing: border-box;
+}
+
