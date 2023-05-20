@@ -11,3 +11,51 @@
   box-sizing: border-box;
 }
 
+.header_container {
+  background: #3E3C3C;
+}
+
+header >a > h3 {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size:20px;
+  line-height: 24px;
+}
+
+.headline_cont {
+  background: #1c1a19;
+  background-image: url('./img/index_background.png');
+  background-repeat: no-repeat;
+  background-position: right bottom;
+
+}
+
+.headline_cont > section > h1 {
+  font-family: 'Crete Round', Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 64px;
+  letter-spacing: 0.37px;
+  color: #ff6b00;
+}
+
+.intro_1 {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  color: #fff5e1;
+}
+
+.intro_2 {
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #fff;
+}
+
